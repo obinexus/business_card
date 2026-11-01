@@ -52,7 +52,7 @@
   <title>Back</title>
   <g id="Card">
     <g id="src-back-card-final.svg">
-      <path id="Background" d="M-4.252 -4.252 L245.197 -4.252 L245.197 160.157 L-4.252 160.157 Z" class="cls-1"/>
+      <path id="Background" d="M-4.178 -4.587 L245.271 -4.587 L245.271 159.822 L-4.178 159.822 Z" class="cls-1"/>
       <g id="Natural-motifs" clip-path="url(#clip-path-1)">
         <path id="leaf-L-1" d="M243.78 -1.417 C243.213 5.669 235.304 10.375 224.957 11.424 C229.323 3.232 236.693 -2.098 243.78 -1.417 Z" class="cls-2"/>
         <path id="leaf-L-1-vein" d="M243.78 -1.417 C237.487 3.43 230.825 7.824 227.31 9.978" class="cls-3"/>
@@ -145,12 +145,12 @@
       <g id="Name-arc">
         <text xml:space="preserve" class="cls-31"><textPath xlink:href="#text-path-1" startOffset="14.024%"><tspan>Nnamdi Michael Okpala</tspan></textPath></text>
       </g>
-      <path id="Speech-bubble" d="M40.229 120.427 L100.811 120.427 L128.897 110.908 L113.851 120.427 L115.552 120.427 C121.043 120.427 125.495 124.879 125.495 130.371 C125.495 135.863 121.043 140.315 115.552 140.315 L40.229 140.315 C34.737 140.315 30.285 135.863 30.285 130.371 C30.285 124.879 34.737 120.427 40.229 120.427 Z" class="cls-32"/>
+      <path id="Speech-bubble" d="M21.084 76.548 L81.666 76.548 L109.752 86.067 L94.706 76.548 L96.406 76.548 C101.898 76.548 106.35 72.096 106.35 66.605 C106.35 61.113 101.898 56.661 96.406 56.661 L21.084 56.661 C15.592 56.661 11.14 61.113 11.14 66.605 C11.14 72.096 15.592 76.548 21.084 76.548 Z" class="cls-32"/>
       <g id="Type">
         <text id="OBINexus" transform="matrix(1 0 0 1 15.318 23.105)" x="0" y="0" xml:space="preserve" class="cls-33"><tspan x="0" y="0">OBINexus</tspan></text>
         <text id="MMUCO" transform="matrix(1 0 0 1 15.094 38.699)" x="0" y="0" xml:space="preserve" class="cls-34"><tspan x="0" y="0">MMUCO</tspan></text>
         <text id="Physical-OSes" transform="matrix(1 0 0 1 14.868 50.179)" x="0" y="0" xml:space="preserve" class="cls-35"><tspan x="0" y="0">Physical OSes</tspan></text>
-        <text id="Email" transform="matrix(1 0 0 1 37.369 132.562)" x="0" y="0" xml:space="preserve" class="cls-36"><tspan x="0" y="0">support@obinexus.org</tspan></text>
+        <text id="Email" transform="matrix(1 0 0 1 19.639 68.77)" x="0" y="0" xml:space="preserve" class="cls-36"><tspan x="0" y="0">support@obinexus.org</tspan></text>
       </g>
     </g>
   </g>
